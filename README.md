@@ -19,8 +19,7 @@ I'm interested in fullstack projects/work
 
 ## Projects
 
-[CUI_Application](https://github.com/ConorChurch/CUI_Application)
-Chatbot tool that renders simple CUIs (Conversational User Interface) for my Masters thesis project.
+[CUI_Application](https://github.com/ConorChurch/CUI_Application) - Chatbot tool that renders simple CUIs (Conversational User Interface) for my Masters thesis project.
 - Allows you to create a script that the chatbot will message the user, with certain question/response types.
 - Conversation is encrypted for privacy.
 - Option to pair with Google cloud account to store conversations.
