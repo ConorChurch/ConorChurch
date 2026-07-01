@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm interested in fullstack projects/work 
+I'm interested in fullstack projects/work with experience with Typescript, React, React Native, Python, Django and Flask.
 
 ## Projects
 
